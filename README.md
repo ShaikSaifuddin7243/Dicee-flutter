@@ -1,10 +1,12 @@
+![Dicee app banner](https://user-images.githubusercontent.com/69446108/217691484-107f6a88-da91-4e64-8e86-6b22028d96cb.png)
 
 # Dicee
 This is a flutter project which can be used at multiple platforms applications like Android app, Mac app and web-based applications.
 The project Dicee is a dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
+## User Interface
 
-
+[DiceeApp.webm](https://user-images.githubusercontent.com/69446108/217691603-b76a00a6-b3f2-4947-b7f3-8be3f32ea5b0.webm)
 
 ## Learnings throughout project
 
